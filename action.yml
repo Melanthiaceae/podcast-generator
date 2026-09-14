@@ -1,4 +1,4 @@
-name: "Podcast generator"
+name: "Melanth Podcast generator"
 author: "Phil Whitehead"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
